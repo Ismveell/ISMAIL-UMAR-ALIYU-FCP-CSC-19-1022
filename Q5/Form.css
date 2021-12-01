@@ -1,0 +1,49 @@
+body {
+    font-family: calibri, Helvetica, sans-serif;
+    margin: 50px;
+    width: 700px;
+    
+    
+}
+
+p {
+    text-align: center;
+    padding: 0;
+    border-bottom: 2px solid black;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+h2 {
+    text-align: center;
+    padding: 0;
+    margin: 0px;
+}
+
+#container { 
+    padding: 50px;
+    
+
+}
+
+input[type="text"], input[type="number"], input[type="email"] {
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+ 
+}
+
+select {
+    width: 25%;
+    padding: 5px;
+    margin: 5px;
+     
+}
+
+button {
+    background-color: rgb(128, 0, 0);
+    padding: 10px;;
+    margin: 0, 50px;
+    width: 50%; 
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,21 @@
+body{
+    width: 500px;
+}
+table, th, td { border: 1px solid black;
+    width: 500px;
+    
+
+}
+
+td {
+    text-align: center;
+}
+
+h1 { 
+    font-size: ;
+    font-style: bold;
+    background-color: blue;
+    padding: 0px;
+    margin: 0px;;
+    
+}
